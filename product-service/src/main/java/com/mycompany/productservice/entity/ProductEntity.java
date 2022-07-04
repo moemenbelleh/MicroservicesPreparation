@@ -18,5 +18,5 @@ public class ProductEntity {
     private String productName;
     private String productDescription;
     private Double perUnitPrice;
-    private String description;
+
 }
